@@ -27,7 +27,8 @@
     "sentry-logger": "^3.0.7",
     "uber-raven": "^0.6.3-project-name",
     "winston-uber": "^1.0.0",
-    "xtend": "^4.0.0"
+    "xtend": "^4.0.0",
+    "istanbul": "~0.1.46"
   },
   "scripts": {
     "test": "npm run jshint -s && NODE_ENV=test node test/index.js | tap-spec",
