@@ -10,6 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
          
+         
 
     <groupId>com.in28minutes.springboot.microservice.example.forex</groupId>
     <artifactId>spring-boot-microservice-forex-service</artifactId>
