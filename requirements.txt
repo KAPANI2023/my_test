@@ -15,14 +15,14 @@ pytype==2023.6.16; platform_system != "Windows" and python_version < "3.11"
 # Libraries used by our various scripts.
 aiohttp==3.8.4; python_version < "3.12"           # aiohttp can't be installed on 3.12 yet
 packaging==23.1
-pathspec>=0.11.1
+# pathspec>=0.11.1
 pyyaml==6.0
 stubdefaulter==0.1.0
-termcolor>=2.3
+# termcolor>=2.3
 tomli==2.0.1
 tomlkit==0.11.8
 typing-extensions==4.6.3
 
 # Type stubs used to type check our scripts.
-types-pyyaml>=6.0.12.7
-types-setuptools>=67.5.0.0
+# types-pyyaml>=6.0.12.7
+# types-setuptools>=67.5.0.0
