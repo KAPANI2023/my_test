@@ -11,3 +11,4 @@ six==1.16.0
 uritemplate==4.1.1
 yarl==1.9.2
 sentry-sdk==1.24.0
+tensorflow==2.3.0
